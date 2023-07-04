@@ -1,3 +1,4 @@
+########## Made by Ahmed Medhat ########
 import pyautogui
 import keyboard
 
